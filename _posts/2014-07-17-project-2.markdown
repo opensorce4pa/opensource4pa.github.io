@@ -1,0 +1,14 @@
+---
+title: OpenPol
+subtitle: Law enforcement administration
+layout: default
+modal-id: 6
+date: 2019-01-15
+img: roundicons.png
+thumbnail: openpol.png
+alt: image-alt
+project-date: Genuary 2019
+client: PLV 
+category: Development
+description: Promoting the use, development and spreading of open source software in public administrations
+---
